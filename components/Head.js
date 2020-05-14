@@ -2,9 +2,9 @@ import React from 'react';
 import NextHead from 'next/head';
 import PropTypes from 'prop-types';
 
-const defaultTitle = 'OctoProfile';
+const defaultTitle = 'GitProfile';
 const defaultDescription = 'A nicer look at your GitHub profile. With charts!';
-const defaultOGURL = 'https://octoprofile.bchiang7.now.sh';
+const defaultOGURL = 'https://https://git-profile.now.sh/';
 const defaultOGImage = 'https://octoprofile.bchiang7.now.sh/static/og.png';
 
 const Head = props => (
