@@ -71,7 +71,7 @@ const Home = () => {
             });
           }}>
           <Octicon icon={MarkGithub} size="large" />
-          <label htmlFor="username">Find Your OctoProfile</label>
+          <label htmlFor="username">Find Your GitProfile</label>
           <input name="username" type="text" onChange={handleChange} />
         </form>
       </StyledContainer>
