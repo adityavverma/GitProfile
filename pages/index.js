@@ -59,7 +59,7 @@ const Home = () => {
 
   return (
     <main>
-      <Head title="OctoProfile" />
+      <Head title="GitProfile" />
 
       <StyledContainer>
         <form
