@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "alias": "octoprofile",
-  "name": "octoprofile",
+  "alias": "gitprofile",
+  "name": "gitprofile",
   "builds": [{ "src": "package.json", "use": "@now/next" }]
 }
