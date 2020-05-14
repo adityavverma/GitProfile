@@ -33,10 +33,10 @@ const ErrorStyles = styled.div`
 
 const Error = ({ error }) => (
   <ErrorStyles>
-    <Head title="OctoProfile" />
+    <Head title="GitProfile" />
     <Corner />
     <Octicon icon={MarkGithub} size="large" />
-    <h1>OctoProfile</h1>
+    <h1>GitProfile</h1>
 
     {error && (
       <div>
